@@ -8,7 +8,7 @@ require 'unirest'
 require 'pepipost/api_helper.rb'
 require 'pepipost/api_exception.rb'
 require 'pepipost/configuration.rb'
-require 'pepipost/pepipost_apiv_10_client.rb'
+require 'pepipost/pepipost_client.rb'
 
 # Controllers
 require 'pepipost/controllers/email_controller.rb'
