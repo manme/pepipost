@@ -36,9 +36,7 @@ Or install it yourself as:
 
 
     email = Pepipost::Email.new
-    response = email.send data
-
-    print response
+    email.send data
 
 ## Contributing
 
